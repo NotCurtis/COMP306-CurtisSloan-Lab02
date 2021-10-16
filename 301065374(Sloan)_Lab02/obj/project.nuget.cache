@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "iRpGWXRFGvlSuAvY6pPcPdPHZLIohVcye8pvlzjykmNeXoSqq4FUqsp9m09oMbt54H5Osa/7R29+hvIRTq7beg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\thezl\\Desktop\\COMP 306 004\\301065374(Sloan)_Lab01\\301065374(Sloan)_Lab02\\301065374(Sloan)_Lab02.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\thezl\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.12\\microsoft.netcore.app.host.win-x64.3.1.12.nupkg.sha512"
+  ],
+  "logs": []
+}

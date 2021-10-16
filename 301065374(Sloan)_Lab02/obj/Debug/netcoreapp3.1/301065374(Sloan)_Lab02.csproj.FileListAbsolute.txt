@@ -1,0 +1,13 @@
+C:\Users\thezl\Desktop\COMP 306 004\301065374(Sloan)_Lab01\301065374(Sloan)_Lab02\bin\Debug\netcoreapp3.1\301065374(Sloan)_Lab02.exe
+C:\Users\thezl\Desktop\COMP 306 004\301065374(Sloan)_Lab01\301065374(Sloan)_Lab02\bin\Debug\netcoreapp3.1\301065374(Sloan)_Lab02.deps.json
+C:\Users\thezl\Desktop\COMP 306 004\301065374(Sloan)_Lab01\301065374(Sloan)_Lab02\bin\Debug\netcoreapp3.1\301065374(Sloan)_Lab02.runtimeconfig.json
+C:\Users\thezl\Desktop\COMP 306 004\301065374(Sloan)_Lab01\301065374(Sloan)_Lab02\bin\Debug\netcoreapp3.1\301065374(Sloan)_Lab02.runtimeconfig.dev.json
+C:\Users\thezl\Desktop\COMP 306 004\301065374(Sloan)_Lab01\301065374(Sloan)_Lab02\bin\Debug\netcoreapp3.1\301065374(Sloan)_Lab02.dll
+C:\Users\thezl\Desktop\COMP 306 004\301065374(Sloan)_Lab01\301065374(Sloan)_Lab02\bin\Debug\netcoreapp3.1\301065374(Sloan)_Lab02.pdb
+C:\Users\thezl\Desktop\COMP 306 004\301065374(Sloan)_Lab01\301065374(Sloan)_Lab02\obj\Debug\netcoreapp3.1\301065374(Sloan)_Lab02.csprojAssemblyReference.cache
+C:\Users\thezl\Desktop\COMP 306 004\301065374(Sloan)_Lab01\301065374(Sloan)_Lab02\obj\Debug\netcoreapp3.1\301065374(Sloan)_Lab02.AssemblyInfoInputs.cache
+C:\Users\thezl\Desktop\COMP 306 004\301065374(Sloan)_Lab01\301065374(Sloan)_Lab02\obj\Debug\netcoreapp3.1\301065374(Sloan)_Lab02.AssemblyInfo.cs
+C:\Users\thezl\Desktop\COMP 306 004\301065374(Sloan)_Lab01\301065374(Sloan)_Lab02\obj\Debug\netcoreapp3.1\301065374(Sloan)_Lab02.csproj.CoreCompileInputs.cache
+C:\Users\thezl\Desktop\COMP 306 004\301065374(Sloan)_Lab01\301065374(Sloan)_Lab02\obj\Debug\netcoreapp3.1\301065374(Sloan)_Lab02.dll
+C:\Users\thezl\Desktop\COMP 306 004\301065374(Sloan)_Lab01\301065374(Sloan)_Lab02\obj\Debug\netcoreapp3.1\301065374(Sloan)_Lab02.pdb
+C:\Users\thezl\Desktop\COMP 306 004\301065374(Sloan)_Lab01\301065374(Sloan)_Lab02\obj\Debug\netcoreapp3.1\301065374(Sloan)_Lab02.genruntimeconfig.cache
