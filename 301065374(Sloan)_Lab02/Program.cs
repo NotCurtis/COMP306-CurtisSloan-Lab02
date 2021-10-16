@@ -7,6 +7,7 @@ namespace _301065374_Sloan__Lab02
 		static void Main(string[] args)
 		{
 			Console.WriteLine("This is my lab 02!");
+			Console.WriteLine("Hello World!");
 		}
 	}
 }
